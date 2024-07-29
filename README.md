@@ -1,1 +1,1 @@
-Menu responsivo de um site.
+Este é um projeto de menu responsivo
